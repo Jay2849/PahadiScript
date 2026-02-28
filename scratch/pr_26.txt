@@ -1,0 +1,1 @@
+PR #26 by ankushra69: Render speed line chart and success pie charts

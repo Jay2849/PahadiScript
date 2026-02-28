@@ -1,0 +1,1 @@
+PR #40 by ankushra69: Add server health check API route

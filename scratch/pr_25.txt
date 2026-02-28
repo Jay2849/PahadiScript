@@ -1,0 +1,1 @@
+PR #25 by Jay2849: Implement variable scope tracking

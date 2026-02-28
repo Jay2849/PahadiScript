@@ -1,0 +1,1 @@
+PR #3 by Jay2849: Add regex rules for string literals, floating points, and integers
